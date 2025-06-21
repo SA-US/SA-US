@@ -10,6 +10,20 @@
 
 ---
 
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinrawat0&show_icons=true&theme=radical" alt="Sachin's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinrawat0&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrawat0&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
@@ -66,15 +80,6 @@
 
 ---
 
-## 🎓 Learning Goals
-
-📌 Currently mastering:
-- **Advanced DSA** (Striver’s Sheet)  
-- **System Design** (with visuals and real-life examples)  
-- **SQL + DBMS Deep Dive**
-
----
-
 ## 🧑‍🎓 About Me
 
 - 🎓 Final-year B.Tech (IT) at Rajasthan Technical University
@@ -84,6 +89,17 @@
 - ✍️ Enjoy simplifying tech for others 
 
 ---
+
+
+
+## 📬 Let's Connect!
+
+- 🌐 Portfolio: *Coming soon*
+- 📫 Email: [sachinprvt5@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/Sachn Singh Rawat](www.linkedin.com/in/sachin-singh-rawat-5a3982285)
+
+
+--- 
 
 ## 🤔 Get to Know Me
 
@@ -100,27 +116,4 @@
 🎵 *Strum the guitar, explore hill stations, or sketch UI ideas.*
 
 ---
-
-## 📬 Let's Connect!
-
-- 🌐 Portfolio: *Coming soon*
-- 📫 Email: [sachinprvt5@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/Sachn Singh Rawat](www.linkedin.com/in/sachin-singh-rawat-5a3982285)
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinrawat0&show_icons=true&theme=radical" alt="Sachin's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinrawat0&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrawat0&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 > “Learn fast. Break things. Build better.” — *My dev journey mantra*
