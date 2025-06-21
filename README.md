@@ -66,7 +66,7 @@
 
 ## 🛠️ Projects
 
-### 🧠 [LMS SaaS Web Application with AI APIs]([https://github.com/sachinrawat0/lms-saas-ai](https://github.com/SA-US/Saas-app.git))
+### 🧠 [LMS SaaS Web Application with AI APIs](https://github.com/SA-US/Saas-app.git)
 > Full-featured **Learning Management SaaS App**:
 > - Clerk authentication
 > - Stripe-powered billing
